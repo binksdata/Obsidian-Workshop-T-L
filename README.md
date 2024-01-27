@@ -1,11 +1,12 @@
 # Obsidian-workshop-part1
 Obsidian cost-free text-oriented tool to enhance Teaching&amp;Leadership workflow
 
+Obsidian's note-taking empowers academics: capturing fleeting ideas, building interconnected knowledge bases, organising research, creating mind maps, and tracking tasks, all while respecting busy schedules.
 In a one-hour hands-on share-what-works-for-me workshop, we will become familiar with basic syntax on how to put it to work for work management. Bring your own laptop.
 
 Please pre-install your Obsidian beforehand: https://help.obsidian.md/Getting+started/Download+and+install+Obsidian
 
-Cheat-sheet for the final exercise
+## **Cheat-sheet for the final exercise:**
 
 1. Dataview query
 ```dataview
