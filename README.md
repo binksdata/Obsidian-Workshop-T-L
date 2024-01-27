@@ -6,7 +6,7 @@ In a one-hour hands-on share-what-works-for-me workshop, we will become familiar
 
 Please pre-install your Obsidian beforehand: https://help.obsidian.md/Getting+started/Download+and+install+Obsidian
 
-Part 1 - bottom up: Building your own vault and queries
+Part 1 - bottom up: Building your own vault and queries<br>
 Part 2 - top down: Making use of the existing vault structure
 
 ## **Cheat-sheet for the final exercise:**
