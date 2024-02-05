@@ -9,7 +9,7 @@ Please pre-install your Obsidian beforehand: https://help.obsidian.md/Getting+st
 Part 1 - bottom up: Building your own vault and queries<br>
 Part 2 - top down: Making use of the existing vault structure
 
-## **Cheat-sheet for the final exercise:**
+## **Cheat-sheet for the final exercise in Part 1:**
 
 1. Dataview query
 ```dataview
