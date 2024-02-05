@@ -11,6 +11,10 @@ Part 2 - top down: Making use of the existing vault structure
 
 ## **Cheat-sheet for the final exercise in Part 1:**
 
+Requires plugins:<br>
+Dataview<br>
+Tasks<br>
+
 1. Dataview query
 ```dataview
 table remind as "Remind"
